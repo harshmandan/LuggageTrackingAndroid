@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#67b2fc</color>
+    <color name="colorPrimaryDark">#00789f</color>
+    <color name="colorAccent">#e749ff</color>
+    <color name="white">#ffff</color>
+    <color name="black">#55000000</color>
+    <color name="dark">#000</color>
+    <color name="track">#d74028</color>
+    <color name="lugg">#efc75e</color>
+    <color name="lost">#787fa7</color>
+    <color name="cam">#fc6e51</color>
+</resources>

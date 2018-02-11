@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TrackAir</string>
+    <string name="setup">Scan Successful</string>
+    <string name="settingup">Setting up your device</string>
+    <string name="tooltip">Please scan the QR code to set up your device</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="track0">Entry Gate</string>
+    <string name="track1">Luggage Tagging</string>
+    <string name="track2">Security Check</string>
+    <string name="track3">Loading in the flight</string>
+    <string name="track4">In the flight</string>
+    <string name="track5">Destination Airport</string>
+    <string name="track6">Unloading from the flight</string>
+    <string name="track7">Luggage Collection</string>
+    <string name="action_settings">Settings</string>
+</resources>

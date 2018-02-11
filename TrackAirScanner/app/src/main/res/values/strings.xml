@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TrackAirScanner</string>
+    <string name="message_write_error">Error Writing Message !</string>
+    <string name="message_write_success">Successfully written to Tag !</string>
+    <string name="message_write_progress">Writing to Tag..</string>
+    <string name="message_tag_detected">NFC Tag Detected !</string>
+    <string name="message_read_tag">Read from NFC Tag</string>
+    <string name="message_tap_tag">Tap the NFC Tag to your device !</string>
+    <string name="hint_message">Message</string>
+    <string name="default_spinner">Select a new location to update</string>
+
+    <string-array name="location_array">
+    <item>Entry Gate</item>
+    <item>Luggage Tagging</item>
+    <item>Security Check</item>
+    <item>Loading in the flight</item>
+    <item>In the flight</item>
+    <item>Destination Airport</item>
+    <item>Unloading from the flight</item>
+    <item>Luggage Collection</item>
+    </string-array>
+</resources>

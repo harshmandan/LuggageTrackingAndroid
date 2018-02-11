@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "926028853947",
+    "firebase_url": "https://trackairproject.firebaseio.com",
+    "project_id": "trackairproject",
+    "storage_bucket": "trackairproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926028853947:android:cf5cc4db2802c20f",
+        "android_client_info": {
+          "package_name": "com.harsh.trackair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926028853947-rqnhomkbm6sko7jlqo0tu8016n92902o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsh.trackair",
+            "certificate_hash": "5d35ad70e615c0ba2f21b52db2744ecef4d9ae47"
+          }
+        },
+        {
+          "client_id": "926028853947-u1a9snoij25p6s1pdura44odp7obq0da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTH7RSb-seZSBnY5DeG-skqnxDq-SS6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926028853947-u1a9snoij25p6s1pdura44odp7obq0da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926028853947:android:897be2338999f5a9",
+        "android_client_info": {
+          "package_name": "com.harsh.trackairbooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926028853947-p794hs6rsq7ff9sihgd2t6g5rqmk5285.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsh.trackairbooth",
+            "certificate_hash": "5d35ad70e615c0ba2f21b52db2744ecef4d9ae47"
+          }
+        },
+        {
+          "client_id": "926028853947-u1a9snoij25p6s1pdura44odp7obq0da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTH7RSb-seZSBnY5DeG-skqnxDq-SS6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926028853947-u1a9snoij25p6s1pdura44odp7obq0da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926028853947:android:441365d8d8cdd129",
+        "android_client_info": {
+          "package_name": "com.harsh.trackairscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926028853947-dar1v5c558um2lm71dbftnhn2mpgq7tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsh.trackairscanner",
+            "certificate_hash": "5d35ad70e615c0ba2f21b52db2744ecef4d9ae47"
+          }
+        },
+        {
+          "client_id": "926028853947-u1a9snoij25p6s1pdura44odp7obq0da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTH7RSb-seZSBnY5DeG-skqnxDq-SS6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926028853947-u1a9snoij25p6s1pdura44odp7obq0da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
